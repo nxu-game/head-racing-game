@@ -103,6 +103,14 @@ head-racing-game/
 └── run.py               # 主入口点
 ```
 
+### 联系方式
+
+如有问题或建议，欢迎通过以下方式联系：
+
+- 微信：znzatop
+
+![微信](https://github.com/wangqiqi/interesting_assets/blob/main/images/wechat.jpg)
+
 ## License | 许可证
 
 本项目采用MIT许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
