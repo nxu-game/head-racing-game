@@ -2,7 +2,7 @@
 
 [English](README_en.md)
 
-<img src="assets/head-racing-game.png" alt="游戏演示" width="800"/>
+![游戏演示](https://github.com/wangqiqi/interesting_assets/raw/main/images/head_racing_game.png)
 
 ## 中文
 
@@ -109,7 +109,7 @@ head-racing-game/
 
 - 微信：znzatop
 
-![微信](https://github.com/wangqiqi/interesting_assets/blob/main/images/wechat.jpg)
+![微信](https://github.com/wangqiqi/interesting_assets/raw/main/images/wechat.jpg)
 
 ## License | 许可证
 
