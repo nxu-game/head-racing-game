@@ -2,7 +2,7 @@
 
 [English](README_en.md)
 
-![游戏演示](https://github.com/wangqiqi/interesting_assets/raw/main/images/head_racing_game.png)
+![游戏演示](https://github.com/nxu-game/interesting_assets/raw/main/images/head_racing_game.png)
 
 ## 中文
 
@@ -109,11 +109,11 @@ head-racing-game/
 
 - 微信：znzatop
 
-![微信](https://github.com/wangqiqi/interesting_assets/raw/main/images/wechat.jpg)
+![微信](https://github.com/nxu-game/interesting_assets/raw/main/images/wechat.jpg)
 
 ## 更多项目
 
-更多有趣的项目请见：https://github.com/wangqiqi/interesting_assets.git
+更多有趣的项目请见：https://github.com/nxu-game/interesting_assets.git
 
 ## License | 许可证
 
