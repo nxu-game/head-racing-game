@@ -2,7 +2,7 @@
 
 [中文](README.md)
 
-![Game Demo](https://github.com/wangqiqi/interesting_assets/raw/main/images/head_racing_game.png)
+![Game Demo](https://github.com/nxu-game/interesting_assets/raw/main/images/head_racing_game.png)
 
 ### Introduction
 
@@ -107,11 +107,11 @@ If you have any questions or suggestions, feel free to contact me:
 
 - WeChat: znzatop
 
-![WeChat](https://github.com/wangqiqi/interesting_assets/raw/main/images/wechat.jpg)
+![WeChat](https://github.com/nxu-game/interesting_assets/raw/main/images/wechat.jpg)
 
 ### More Projects
 
-更多有趣的项目请见：https://github.com/wangqiqi/interesting_assets.git
+更多有趣的项目请见：https://github.com/nxu-game/interesting_assets.git
 
 ---
 
